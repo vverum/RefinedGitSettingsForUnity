@@ -15,8 +15,6 @@
 *.controller merge=unityyamlmerge eol=lf
 *.terrainlayer merge=unityyamlmerge eol=lf
 
-## git-lfs ##
-
 # Image formats
 *.psd filter=lfs diff=lfs merge=lfs -text
 *.jpg filter=lfs diff=lfs merge=lfs -text
@@ -77,7 +75,7 @@
 *.3dm filter=lfs diff=lfs merge=lfs -text
 
 # 3D formats additives
-*.mtl -text
+*.mtl text
 
 # Build
 *.dll filter=lfs diff=lfs merge=lfs -text
