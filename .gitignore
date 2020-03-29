@@ -9,11 +9,12 @@
 /[Mm]emoryCaptures/
 /[Rr]elease/
 
-/[Aa]ssets/[Tt]emp/
-/[Aa]ssets/[Tt]emp.meta
-
-[Aa]ssets/TextMesh*Pro/
-[Aa]ssets/Plugins/Editor/JetBrains*
+/Assets/[Tt]emp/
+/Assets/[Tt]emp.meta
+/Assets/Samples
+/Assets/Samples.meta
+/Assets/TextMesh*Pro/
+/Assets/Plugins/Editor/JetBrains*
 
 ExportedObj/
 
