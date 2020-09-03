@@ -8,6 +8,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Rr]elease/
+/[Uu]serSettings/
 
 /Assets/[Tt]emp/
 /Assets/[Tt]emp.meta
@@ -46,6 +47,9 @@ ExportedObj/
 *.aab
 *.obb
 *.unitypackage
+
+*.log
+*.log.meta
 
 sysinfo.txt
 
