@@ -51,6 +51,8 @@ ExportedObj/
 *.log
 *.log.meta
 
-sysinfo.txt
+*.DS_Store
+*.DS_Store.meta
 
+sysinfo.txt
 crashlytics-build.properties
