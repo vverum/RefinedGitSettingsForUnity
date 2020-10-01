@@ -20,6 +20,7 @@
 ExportedObj/
 
 .vs/
+.vscode/
 .gradle/
 .consulo/
 
