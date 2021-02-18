@@ -16,6 +16,8 @@
 /Assets/Samples.meta
 /Assets/TextMesh*Pro/
 /Assets/Plugins/Editor/JetBrains*
+/Assets/BuildReports/*
+/Assets/BuildReports.meta
 
 ExportedObj/
 
