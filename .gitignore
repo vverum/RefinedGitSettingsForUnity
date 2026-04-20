@@ -8,6 +8,7 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 /[Rr]elease/
+/[Rr]ecordings/
 /[Uu]serSettings/
 
 /Assets/[Tt]emp/
@@ -18,13 +19,17 @@
 /Assets/Plugins/Editor/JetBrains*
 /Assets/BuildReports/*
 /Assets/BuildReports.meta
+/Assets/_Recovery/
+/Assets/_Recovery.meta
 
 ExportedObj/
 
 .vs/
 .vscode/
+.idea/
 .gradle/
 .consulo/
+.zed/
 
 *.csproj
 *.unityproj
