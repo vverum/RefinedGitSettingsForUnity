@@ -66,3 +66,9 @@ ExportedObj/
 
 sysinfo.txt
 crashlytics-build.properties
+
+# fmode
+/[Aa]ssets/Plugins/FMOD/Cache/*
+/[Aa]ssets/StreamingAssets/**/*.bank
+/[Aa]ssets/StreamingAssets/**/*.bank.meta
+fmod_editor.log
